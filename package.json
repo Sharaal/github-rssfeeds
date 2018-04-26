@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "engines": {
+    "node": "^7.6.0"
+  },
+  "name": "@dragonprojects/github-rssfeeds",
+  "version": "1.2.1",
+  "description": "Generate RSS feeds for GitHub trending",
+  "repository": "sharaal/github-rssfeeds",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node src/web.js",
+    "postinstall": "dnode-dependencies-badge"
+  },
+  "dependencies": {
+    "@dnode/controllers": "^1.0.5",
+    "@dnode/dependencies-badge": "^1.6.2",
+    "@dnode/duration": "^3.0.0",
+    "@dnode/env": "^1.0.0",
+    "@dnode/express": "^1.1.0",
+    "@dnode/middlewares": "^1.1.2",
+    "express-handlebars": "^3.0.0",
+    "rss": "^1.2.2",
+    "trending-github": "^1.0.2"
+  }
+}
