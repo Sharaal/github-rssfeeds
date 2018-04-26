@@ -29,6 +29,7 @@ module.exports = ({ feedTtl }) => [
           description: repo.description,
           url: repo.href,
           categories: [repo.language],
+          author: repo.author,
         });
       }
 
