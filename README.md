@@ -1,4 +1,4 @@
-[![dependencies | 8 | 101](https://img.shields.io/badge/dependencies-8%20|%20101-blue.svg)](DEPENDENCIES.md)
+[![dependencies | 9 | 110](https://img.shields.io/badge/dependencies-9%20|%20110-blue.svg)](DEPENDENCIES.md)
 
 # Known bugs
 
