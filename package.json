@@ -21,6 +21,6 @@
     "@dnode/middlewares": "^1.1.2",
     "express-handlebars": "^3.0.0",
     "rss": "^1.2.2",
-    "trending-github": "^1.0.2"
+    "trending-github": "^1.1.16"
   }
 }
