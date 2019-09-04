@@ -1,5 +1,5 @@
 const RSS = require('rss');
-const trending = require('trending-github');
+const trending = require('../../trending-github');
 
 module.exports = ({ feedTtl }) => [
   'get',
